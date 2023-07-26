@@ -1,0 +1,8 @@
+vim editor 
+press i to enter in insert mode 
+:w  to save the changes
+:q  quit file if file is saved
+:q! quit without saving	
+wq  save and quit file
+:x  shortend version of wq
+esc key to stop insert or any mode
